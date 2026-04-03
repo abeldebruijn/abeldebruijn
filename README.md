@@ -13,3 +13,15 @@ Visit portfolio [https://www.abeldebruijn.nl](https://www.abeldebruijn.nl)
 - Lead Developer [Open Linear Algebra applets](https://github.com/PRIME-TU-Delft/Open-LA-Applets)
 - Documentation writer [Supabase](https://github.com/supabase/supabase)
 - Developer [Lava game](https://github.com/PRIME-TU-Delft/lavaflow)
+
+## Recent LLM hobby projects
+
+### prompt party portal
+A social game platform 
+- Home page: [prompt-party-portal.vercel.app](prompt-party-portal.vercel.app)
+- Github: [https://github.com/abeldebruijn/prompt-party-portal](https://github.com/abeldebruijn/prompt-party-portal)
+
+### Voortgangstoets (Dutch)
+Practice with real Medical questions, receive AI-generated personalized feedback, and track your progress.
+- Home page: [https://voortgangstoets-mu.vercel.app/](https://voortgangstoets-mu.vercel.app/)
+- GitHub: [https://github.com/abeldebruijn/voortgangstoets](https://github.com/abeldebruijn/voortgangstoets)
